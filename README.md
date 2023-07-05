@@ -1,7 +1,6 @@
 <h1>Hi, I'm Devontrae 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Active Directory Lab]
 
 <h2>📺 Certifications</h2>
